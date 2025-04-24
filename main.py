@@ -14,7 +14,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # تعریف متغیرهای مورد نیاز
-TOKEN = "8145864683:AAEOyjeIvXr_A6F2k5kFyJKr-UEeSKR8AxM"
+TOKEN = "8145864683:AAGZtg4fWc5cxQtpbNae7Sd9ORWmhSLafUk"
 OMDB_API_KEY = "d48fc717"
 CHANNEL_USERNAME = "@SausageBots"
 ADMIN_ID = 5990266020
