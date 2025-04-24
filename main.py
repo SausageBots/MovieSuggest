@@ -26,7 +26,7 @@ ADMIN_ID = 5990266020
 # Webhook specific settings
 # Replace with your actual public URL where the bot is hosted
 # This is crucial for webhooks. Example: "https://your-domain.com"
-WEBHOOK_HOST = "YOUR_PUBLIC_HTTPS_DOMAIN"
+WEBHOOK_HOST = ""
 WEBHOOK_PATH = "/webhook" # Path for the webhook endpoint
 WEBHOOK_URL = f"https://{WEBHOOK_HOST}{WEBHOOK_PATH}"
 LISTEN_PORT = 8443 # Standard port for webhooks (443, 80, 88, 8443)
